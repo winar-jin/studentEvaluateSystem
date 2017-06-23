@@ -1,0 +1,19 @@
+.btn,
+button,
+button:active,
+.btn.btn-right:focus,
+.btn:focus,
+.btn.focus,
+.btn:active,
+.btn.active {
+    outline:none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
+.star-rating {
+    display: block !important;
+    margin: 0 auto;
+    width: 100% !important;
+}
